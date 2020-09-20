@@ -935,7 +935,9 @@ textarea {
   margin-bottom: 1.5em;
 }
 
-header {
-  color: red; 
+/* Mon site
+--------------------------------------------- */
+.site-title {
+  font-size: 8em;
 }
 /*# sourceMappingURL=style.css.map */
