@@ -949,4 +949,24 @@ textarea {
   margin: 15px;
   padding: 15px;
 }
+
+#post-2 {
+  background-color: green;
+  margin: 15px;
+  padding: 15px;
+}
+
+.entry-title {
+  color: yellowgreen;
+  text-align: center;
+}
+
+h2 {
+  font-size: 12;
+  color: #444444;
+}
+
+a {
+  text-decoration: none;
+}
 /*# sourceMappingURL=style.css.map */
