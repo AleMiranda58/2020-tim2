@@ -987,6 +987,10 @@ a {
 
 .nav-menu {
   background-color: gainsboro;
+  padding: 15px;
+}
+
+#primary-menu {
   margin: 15px;
 }
 /*# sourceMappingURL=style.css.map */
