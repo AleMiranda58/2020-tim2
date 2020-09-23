@@ -993,4 +993,11 @@ a {
 #primary-menu {
   margin: 15px;
 }
+
+.site-info {
+  background-color: wheat;
+  text-align: center;
+  margin: 15px;
+  padding: 15px;
+}
 /*# sourceMappingURL=style.css.map */
