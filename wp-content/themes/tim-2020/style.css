@@ -938,6 +938,10 @@ textarea {
 /* Mon site
 --------------------------------------------- */
 .site-title {
-  font-size: 8em;
+  font-size: 1.5em;
+}
+
+.site-description {
+  font-size: 10rem;
 }
 /*# sourceMappingURL=style.css.map */
